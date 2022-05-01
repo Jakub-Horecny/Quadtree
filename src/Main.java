@@ -59,6 +59,7 @@ class Rectangle {
 }
 
 class Quadtree {
+
     // ohranicenie, aká veľká je plocha na ktorej je strom
     private Rectangle boundary;
     private int capacity;
